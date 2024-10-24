@@ -9,7 +9,7 @@ def fetch_coins():
         print(f"\nStarting fetch #{fetch_index}...")
         fetch_prices()
         print(f"Fetch #{fetch_index} complete. Waiting for 60 seconds...\n")
-        time.sleep(60)  # Wait for 60 seconds before the next fetch
+        time.sleep(10)  # Wait for 60 seconds before the next fetch
 
 
 if __name__ == "__main__":
