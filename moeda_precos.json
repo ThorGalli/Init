@@ -1,0 +1,235 @@
+[
+    {
+        "coinName": "Bitcoin",
+        "values": [
+            {
+                "isoTimeStamp": "2024-10-23T21:38:45.219434",
+                "valueInDollars": "66,509.17"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:39:02.410060",
+                "valueInDollars": "66,509.17"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:39:32.562599",
+                "valueInDollars": "66,509.17"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:39:54.825091",
+                "valueInDollars": "66,569.54"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:43:35.699583",
+                "valueInDollars": "66,583.27"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:50:17.280666",
+                "valueInDollars": "66,704.49"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:51:34.318582",
+                "valueInDollars": "66,704.49"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:52:50.210012",
+                "valueInDollars": "66,917.81"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:55:11.989343",
+                "valueInDollars": "67,066.82"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:56:20.586602",
+                "valueInDollars": "67,039.05"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:01:33.841398",
+                "valueInDollars": "67,059.29"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:02:45.916958",
+                "valueInDollars": "67,249.15"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:03:32.400039",
+                "valueInDollars": "67,249.15"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:04:54.339316",
+                "valueInDollars": "67,345.84"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:06:11.927903",
+                "valueInDollars": "67,311.78"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:09:33.393892",
+                "valueInDollars": "67,281.09"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:11:21.516743",
+                "valueInDollars": "67,383.42"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:14:11.812513",
+                "valueInDollars": "67,502.68"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:16:15.082022",
+                "valueInDollars": "67,511.29"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:17:30.537654",
+                "valueInDollars": "67,511.29"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:18:19.407233",
+                "valueInDollars": "67,511.29"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:19:06.404491",
+                "valueInDollars": "67,511.29"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:19:31.956439",
+                "valueInDollars": "67,511.29"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:20:39.751299",
+                "valueInDollars": "67,484.52"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:22:48.878503",
+                "valueInDollars": "67,481.24"
+            }
+        ]
+    },
+    {
+        "coinName": "Solana",
+        "values": [
+            {
+                "isoTimeStamp": "2024-10-23T21:38:48.264527",
+                "valueInDollars": "170.92"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:39:09.013837",
+                "valueInDollars": "170.92"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:39:37.223004",
+                "valueInDollars": "170.92"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:39:59.228332",
+                "valueInDollars": "170.92"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:43:43.133338",
+                "valueInDollars": "170.97"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:50:25.101292",
+                "valueInDollars": "171.04"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:51:38.677163",
+                "valueInDollars": "171.78"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:52:53.049828",
+                "valueInDollars": "171.78"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:55:18.214606",
+                "valueInDollars": "172.25"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T21:56:26.100567",
+                "valueInDollars": "172.25"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:01:38.623259",
+                "valueInDollars": "172.09"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:02:49.052312",
+                "valueInDollars": "172.09"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:03:38.781601",
+                "valueInDollars": "172.09"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:04:58.980176",
+                "valueInDollars": "171.97"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:06:15.132522",
+                "valueInDollars": "172.57"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:09:40.148040",
+                "valueInDollars": "172.57"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:11:25.125598",
+                "valueInDollars": "172.53"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:14:15.188505",
+                "valueInDollars": "172.53"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:16:19.561083",
+                "valueInDollars": "172.65"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:17:34.854628",
+                "valueInDollars": "172.65"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:18:26.624493",
+                "valueInDollars": "172.65"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:19:12.823949",
+                "valueInDollars": "172.65"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:19:36.432735",
+                "valueInDollars": "172.95"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:20:44.912278",
+                "valueInDollars": "172.95"
+            }
+        ]
+    },
+    {
+        "coinName": "Ethereum",
+        "values": [
+            {
+                "isoTimeStamp": "2024-10-23T22:22:52.545072",
+                "valueInDollars": "2,552.50"
+            }
+        ]
+    },
+    {
+        "coinName": "Tether",
+        "values": [
+            {
+                "isoTimeStamp": "2024-10-23T22:22:58.587959",
+                "valueInDollars": "0.9989"
+            }
+        ]
+    },
+    {
+        "coinName": "Bnb",
+        "values": [
+            {
+                "isoTimeStamp": "2024-10-23T22:23:02.590374",
+                "valueInDollars": "588.64"
+            }
+        ]
+    }
+]
