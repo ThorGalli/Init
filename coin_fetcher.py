@@ -8,6 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 import os
+import selenium
 
 
 def load_config(file_path):
@@ -28,6 +29,7 @@ def save_prices(file_path, prices):
 
 
 def fetch_prices():
+    print(selenium.__version__)
     config = load_config('config.json')  # Load the config from the JSON file
     BASE_URL = config['BASE_URL']
     COIN_ROUTES = config['COIN_ROUTES']

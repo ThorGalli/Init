@@ -105,6 +105,14 @@
             {
                 "isoTimeStamp": "2024-10-23T22:26:24.111617",
                 "valueInDollars": "67,284.82"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:32:43.400730",
+                "valueInDollars": "67,251.69"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:37:06.842926",
+                "valueInDollars": "67,175.96"
             }
         ]
     },
@@ -206,6 +214,14 @@
             {
                 "isoTimeStamp": "2024-10-23T22:20:44.912278",
                 "valueInDollars": "172.95"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:33:03.970049",
+                "valueInDollars": "173.06"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:37:29.684680",
+                "valueInDollars": "172.69"
             }
         ]
     },
@@ -219,6 +235,14 @@
             {
                 "isoTimeStamp": "2024-10-23T22:26:31.482637",
                 "valueInDollars": "2,544.48"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:32:50.088864",
+                "valueInDollars": "2,540.61"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:37:14.563567",
+                "valueInDollars": "2,541.04"
             }
         ]
     },
@@ -231,6 +255,14 @@
             },
             {
                 "isoTimeStamp": "2024-10-23T22:26:37.565445",
+                "valueInDollars": "0.9988"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:32:55.105337",
+                "valueInDollars": "0.9992"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:37:19.132937",
                 "valueInDollars": "0.9988"
             }
         ]
@@ -245,6 +277,14 @@
             {
                 "isoTimeStamp": "2024-10-23T22:26:41.163544",
                 "valueInDollars": "588.75"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:32:58.154843",
+                "valueInDollars": "588.38"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:37:24.794871",
+                "valueInDollars": "587.58"
             }
         ]
     }
