@@ -1,0 +1,10 @@
+{
+  "BASE_URL": "https://coinmarketcap.com",
+  "COIN_ROUTES": [
+      "/currencies/bitcoin/",
+      "/currencies/ethereum/",
+      "/currencies/tether/",
+      "/currencies/bnb/",
+      "/currencies/solana/"
+  ]
+}
