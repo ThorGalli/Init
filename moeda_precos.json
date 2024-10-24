@@ -101,6 +101,10 @@
             {
                 "isoTimeStamp": "2024-10-23T22:22:48.878503",
                 "valueInDollars": "67,481.24"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:26:24.111617",
+                "valueInDollars": "67,284.82"
             }
         ]
     },
@@ -211,6 +215,10 @@
             {
                 "isoTimeStamp": "2024-10-23T22:22:52.545072",
                 "valueInDollars": "2,552.50"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:26:31.482637",
+                "valueInDollars": "2,544.48"
             }
         ]
     },
@@ -220,6 +228,10 @@
             {
                 "isoTimeStamp": "2024-10-23T22:22:58.587959",
                 "valueInDollars": "0.9989"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:26:37.565445",
+                "valueInDollars": "0.9988"
             }
         ]
     },
@@ -229,6 +241,10 @@
             {
                 "isoTimeStamp": "2024-10-23T22:23:02.590374",
                 "valueInDollars": "588.64"
+            },
+            {
+                "isoTimeStamp": "2024-10-23T22:26:41.163544",
+                "valueInDollars": "588.75"
             }
         ]
     }

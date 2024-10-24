@@ -13,7 +13,7 @@ stop_event = threading.Event()  # Create a threading event to control the loop
 
 
 def display_progress_bar(seconds):
-    bar_length = 30  # Length of the progress bar
+    bar_length = 40  # Length of the progress bar
     for i in range(seconds):
         if stop_event.is_set():  # Check if the stop event is set
             break
@@ -22,6 +22,11 @@ def display_progress_bar(seconds):
         bar = '█' * filled_length + '-' * (bar_length - filled_length)
         print(f'\r|{bar}| {i + 1}/{seconds} seconds', end='')
     print()  # New line after the bar completes
+
+
+def input_handler():
+    input()  # Wait for Enter key press
+    stop_event.set()  # Set the event to stop the progress bar
 
 
 def fetch_coins():
@@ -37,12 +42,18 @@ def fetch_coins():
             target=display_progress_bar, args=(60,))
         progress_thread.start()
 
-        # Wait for Enter key press to stop fetching
-        if input() == "":
-            stop_event.set()  # Set the event to stop the progress bar
+        # Start the input handler in a separate thread
+        input_thread = threading.Thread(target=input_handler)
+        input_thread.start()
+
+        # Wait for the progress thread to finish
+        progress_thread.join()
+        input_thread.join()  # Ensure the input thread has completed
+
+        if stop_event.is_set():  # Check if the stop event was triggered
+            print(f"{Fore.GREEN}Fetching stopped.{Style.RESET_ALL}")
             break
 
-        progress_thread.join()  # Wait for the progress thread to finish
         print(f"{Fore.GREEN}Resuming fetching...{Style.RESET_ALL}")
 
 
