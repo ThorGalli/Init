@@ -73,8 +73,9 @@ Contribuições são bem-vindas! Se você encontrar bugs ou tiver sugestões, si
 
 ### Contribuintes
 
-- **Thor Galli**: [GitHub](https://github.com/ThorGalli)  
-  ![Thor Galli](https://avatars.githubusercontent.com/u/95541125?v=4)
+- **[Thor Galli](https://github.com/ThorGalli)**  
+  [![Thor Galli](https://avatars.githubusercontent.com/u/95541125?v=4 =50x50)](https://github.com/ThorGalli)
 
-- **Pedro Lobato**: [GitHub](https://github.com/Pedrossl/)  
-  ![Pedro Lobato](https://avatars.githubusercontent.com/u/116649671?v=4)
+- **[Pedro Lobato](https://github.com/Pedrossl/)**  
+  [![Pedro Lobato](https://avatars.githubusercontent.com/u/116649671?v=4 =50x50)](https://github.com/Pedrossl/)
+
