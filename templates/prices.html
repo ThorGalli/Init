@@ -83,7 +83,6 @@
         <div class="logo">ThorBato-Coins™</div>
         <div class="links">
             <a href="#"><i class="fab fa-bitcoin"></i> Bitcoin</a>
-            <a href="#"><i class="fab fa-ethereum"></i> Ethereum</a>
             <a href="#"><i class="fab fa-ethereum"></i> Tether</a>
             <a href="#"><i class="fab fa-ethereum"></i> BNB</a>
             <a href="#"><i class="fab fa-ethereum"></i> Solana</a>
@@ -134,7 +133,7 @@
         function renderPrices(prices) {
             const pricesList = document.getElementById('crypto-prices');
             pricesList.innerHTML = ''; 
-            prices.forEach(coin => {
+            prices.filter(coin => coin.coinName != "Ethereum").forEach(coin => {
                 const coinItem = document.createElement('li');
                 coinItem.id = coin.coinName.toLowerCase(); // Adiciona um ID para o link
 
